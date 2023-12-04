@@ -8,7 +8,7 @@ int main() {
     printf("enter the final reading :");
     scanf("%d",&y);
     
-    z =x-y;
+    z =y-x;
     
     if(z>=200&&z<=500){
         a=z*3.50;
